@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "05ca02d293540311",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9b0d07af187e4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022/July/More ramblings about the Steam Deck.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa8957a4c23cc38e",
+    "type": "split",
+    "children": [
+      {
+        "id": "993855bbebda9877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a2cfedcc272865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "962258e06e09ae69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "992abc736663bb23",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d6c4f62a051b88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821ae1c208b37670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022/July/More ramblings about the Steam Deck.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aa9b0d07af187e4f",
+  "lastOpenFiles": [
+    "2022/July/More ramblings about the Steam Deck.md",
+    "2022/July/Ramblings about the Steam Deck.md",
+    "README.md"
+  ]
+}
