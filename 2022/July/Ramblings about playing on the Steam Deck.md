@@ -29,11 +29,9 @@ Since the Windows games use Proton to run on Linux, instead of relying on Steam 
 
 ### The Legend of Heroes: Trails in the Sky: First Chapter
 
-Genre: JRPG
-Status: _Unsupported_
-Medal: _Gold_
-Playtime: the entire game
-FPS: 60
+| Genre | Status | Medal | Playtime | FPS |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| JRPG | _Unsupported_ | _Gold_ | the entire game | 60 |
 
 At some point, I'm gonna have to write a story about this entire game series, but for now, I'm just gonna say that it's currently my favorite RPG series.
 
@@ -49,11 +47,9 @@ I have no idea why Valve thinks this game is unplayable.
 
 ### The Legend of Heroes: Trails in the Sky: Second Chapter
 
-Genre: JRPG
-Status: _Unsupported_
-Medal: _Gold_
-Playtime: the entire game
-FPS: 60
+| Genre | Status | Medal | Playtime | FPS |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| JRPG | _Unsupported_ | _Gold_ | the entire game | 60 |
 
 The second part of the trilogy is also marked as _Unsupported_ and also works without any issues. This did not surprise me as it uses the same engine as the first one. The experience I has with it was almost the same as with the previous entry in the series, so I won't repeat myself.
 
@@ -64,21 +60,17 @@ Again, I have no idea why Valve marked this game as _Unsupported_.
 ### The Legend of Heroes: Trails in the Sky the 3rd
 _See the pattern yet?_
 
-Genre: JRPG
-Status: _Verified_
-Medal: _Gold_
-Playtime: the entire game
-FPS: 60
+| Genre | Status | Medal | Playtime | FPS |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| JRPG | _Verified_ | _Gold_ | the entire game | 60 |
 
 The only game in the trilogy that is marked as _Steam Deck Verified_ and ironically the only one that has crashed on me and had some issues with graphics - weird artifacts during a couple of animations. This game has the same cannot-finish-with-the-controller bug in chapter six that the previous one had in the final chapter. This time around I found an even simpler workaround - clicking the option using the touchscreen - no changing of controller profiles necessary. Other than that I had the same great experience as with the previous two entries in this series.
 
 ### Age of Empires II HD _aka_ Age of Empires II (2013)
 
-Genre: RTS
-Status: _Verified_
-Medal: _Gold_
-Playtime: None
-FPS: Unknown
+| Genre | Status | Medal | Playtime | FPS |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| RTS | _Verified_ | _Gold_ | none | not applicable |
 
 Valve claims it's Steam Deck _Verified_. ProtonDB gave it a _Gold_ medal. It should work great, right?
 
@@ -88,11 +80,9 @@ I tried various versions of Proton and Proton-GE to no avail. The issues persist
 
 ### Age of Empires II Definitive Edition
 
-Genre: RTS
-Status: _Unsupported_
-Medal: _Gold_
-Playtime: None
-FPS: Unknown
+| Genre | Status | Medal | Playtime | FPS |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| RTS | _Unsupported_ | _Gold_ | none | not applicable |
 
 According to ProtonDB, it should run, but I can't get it to work. The furthest I got was a Microsoft account login screen.
 
